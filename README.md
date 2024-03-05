@@ -5,6 +5,7 @@
 - 🔭 I’m working for Mercadolibre
 - 🎓 I have a technician degree in computer programming at [Universidad Nacional de Quilmes (UNQ)](https://www.unq.edu.ar/)
 - 📚 Currently pursuing a degree in computer science at [Universidad Nacional de Quilmes (UNQ)](https://www.unq.edu.ar/)
+- 🌱 I'm curious and passionate for IT!
 - ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 
 #### How to reach me 📫 
